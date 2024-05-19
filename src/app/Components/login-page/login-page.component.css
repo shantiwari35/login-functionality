@@ -1,0 +1,30 @@
+.card-body {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px
+}
+
+.card {
+    width: 50%
+}
+
+.container {
+    height: 50rem;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    justify-content: center;
+    align-items: center;
+}
+
+form>div {
+    width: 100%;
+}
+
+.btn{
+    width:10rem;
+}
